@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="alquilerDeVehiculos" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/alquilerDeVehiculos" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="libs" />
+				</Compiler>
+				<Linker>
+					<Add directory="libs" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/alquilerDeVehiculos" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="libs/LibreriaGestion.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="libs/LibreriaGestion.h" />
+		<Unit filename="libs/alquilerData.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="libs/alquilerData.h" />
+		<Unit filename="libs/estructuras.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="libs/estructuras.h" />
+		<Unit filename="libs/gotoxy.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="libs/gotoxy.h" />
+		<Unit filename="libs/interfazAlquiler.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="libs/interfazAlquiler.h" />
+		<Unit filename="libs/interfazUsuario.h" />
+		<Unit filename="libs/interfazUsuarioMenu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="libs/manejoDeArchivos.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="libs/manejoDeArchivos.h" />
+		<Unit filename="libs/personas.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="libs/personas.h" />
+		<Unit filename="libs/reportesEstadisticas.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="libs/reportesEstadisticas.h" />
+		<Unit filename="libs/utilidades.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="libs/utilidades.h" />
+		<Unit filename="libs/validaciones.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="libs/validaciones.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

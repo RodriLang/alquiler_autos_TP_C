@@ -1,0 +1,1297 @@
+# depslib dependency file v1.0
+1717192909 source:c:\users\bersu\desktop\utn\programacion i\alquilerdevehiculos\alquilerdata.c
+	"alquilerData.h"
+	<stdio.h>
+	<stdlib.h>
+
+1716426572 c:\users\bersu\desktop\utn\programacion i\alquilerdevehiculos\alquilerdata.h
+	"estructuras.h"
+
+1716592960 c:\users\bersu\desktop\utn\programacion i\alquilerdevehiculos\estructuras.h
+
+1716426314 source:c:\users\bersu\desktop\utn\programacion i\alquilerdevehiculos\estructuras.c
+
+1491400448 source:c:\users\bersu\desktop\utn\programacion i\alquilerdevehiculos\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1717013197 source:c:\users\bersu\desktop\utn\programacion i\alquilerdevehiculos\libreriagestion.c
+	"LibreriaGestion.h"
+
+1717012794 c:\users\bersu\desktop\utn\programacion i\alquilerdevehiculos\libreriagestion.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	"estructuras.h"
+
+1718673777 source:c:\users\bersu\desktop\utn\programacion i\alquilerdevehiculos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"estructuras.h"
+
+1717193994 c:\users\bersu\desktop\utn\programacion i\alquilerdevehiculos\interfazusuario.h
+	"estructuras.h"
+	"utilidades.h"
+	"reportesEstadisticas.h"
+	"LibreriaGestion.h"
+	"interfazAlquiler.h"
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+
+1716863680 c:\users\bersu\desktop\utn\programacion i\alquilerdevehiculos\utilidades.h
+	"estructuras.h"
+	<time.h>
+
+1717192076 c:\users\bersu\desktop\utn\programacion i\alquilerdevehiculos\reportesestadisticas.h
+	"estructuras.h"
+
+1717193499 c:\users\bersu\desktop\utn\programacion i\alquilerdevehiculos\interfazalquiler.h
+	"interfazUsuario.h"
+	"estructuras.h"
+	"validaciones.h"
+	"utilidades.h"
+
+1716765058 c:\users\bersu\desktop\utn\programacion i\alquilerdevehiculos\validaciones.h
+	"estructuras.h"
+
+1491399894 c:\users\bersu\desktop\utn\programacion i\alquilerdevehiculos\gotoxy.h
+
+1716409400 source:c:\users\bersu\desktop\utn\programacion i\alquilerdevehiculos\manejodearchivos.c
+	"manejoDeArchivos.h"
+
+1716426932 c:\users\bersu\desktop\utn\programacion i\alquilerdevehiculos\manejodearchivos.h
+	<stdio.h>
+	<stdlib.h>
+	"estructuras.h"
+
+1717192161 source:c:\users\bersu\desktop\utn\programacion i\alquilerdevehiculos\reportesestadisticas.c
+	"reportesEstadisticas.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"gotoxy.h"
+
+1717191527 source:c:\users\bersu\desktop\utn\programacion i\alquilerdevehiculos\utilidades.c
+	"utilidades.h"
+	"interfazUsuario.h"
+
+1716769628 source:c:\users\bersu\desktop\utn\programacion i\alquilerdevehiculos\validaciones.c
+	<string.h>
+	<ctype.h>
+	"validaciones.h"
+
+1717194138 source:c:\users\bersu\desktop\utn\programacion i\alquilerdevehiculos\interfazusuariomenu.c
+	"interfazUsuario.h"
+	"gotoxy.h"
+	<stdio.h>
+
+1717194725 source:c:\users\bersu\desktop\utn\programacion i\alquilerdevehiculos\interfazalquiler.c
+	"interfazAlquiler.h"
+
+1718680699 source:c:\users\bersu\desktop\utn\programacion i\alquilerdevehiculos\libs\alquilerdata.c
+	"alquilerData.h"
+	<stdio.h>
+	<stdlib.h>
+
+1718680708 c:\users\bersu\desktop\utn\programacion i\alquilerdevehiculos\libs\alquilerdata.h
+	"estructuras.h"
+
+1718668357 c:\users\bersu\desktop\utn\programacion i\alquilerdevehiculos\libs\estructuras.h
+
+1716426314 source:c:\users\bersu\desktop\utn\programacion i\alquilerdevehiculos\libs\estructuras.c
+
+1491400448 source:c:\users\bersu\desktop\utn\programacion i\alquilerdevehiculos\libs\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1718680249 source:c:\users\bersu\desktop\utn\programacion i\alquilerdevehiculos\libs\interfazalquiler.c
+	"interfazAlquiler.h"
+	"interfazUsuario.h"
+
+1718662835 c:\users\bersu\desktop\utn\programacion i\alquilerdevehiculos\libs\interfazalquiler.h
+	"estructuras.h"
+	"interfazUsuario.h"
+	"validaciones.h"
+	"utilidades.h"
+	"alquilerData.h"
+
+1718673191 c:\users\bersu\desktop\utn\programacion i\alquilerdevehiculos\libs\interfazusuario.h
+	"estructuras.h"
+	"utilidades.h"
+	"reportesEstadisticas.h"
+	"LibreriaGestion.h"
+	"interfazAlquiler.h"
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"personas.h"
+
+1718634447 c:\users\bersu\desktop\utn\programacion i\alquilerdevehiculos\libs\utilidades.h
+	"estructuras.h"
+	<time.h>
+
+1718504341 c:\users\bersu\desktop\utn\programacion i\alquilerdevehiculos\libs\reportesestadisticas.h
+	"estructuras.h"
+	"interfazUsuario.h"
+
+1718672244 c:\users\bersu\desktop\utn\programacion i\alquilerdevehiculos\libs\libreriagestion.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	"estructuras.h"
+
+1491399894 c:\users\bersu\desktop\utn\programacion i\alquilerdevehiculos\libs\gotoxy.h
+
+1716765058 c:\users\bersu\desktop\utn\programacion i\alquilerdevehiculos\libs\validaciones.h
+	"estructuras.h"
+
+1718673777 source:c:\users\bersu\desktop\utn\programacion i\alquilerdevehiculos\libs\interfazusuariomenu.c
+	"interfazUsuario.h"
+	"gotoxy.h"
+	<stdio.h>
+
+1718672244 source:c:\users\bersu\desktop\utn\programacion i\alquilerdevehiculos\libs\libreriagestion.c
+	"LibreriaGestion.h"
+
+1716409400 source:c:\users\bersu\desktop\utn\programacion i\alquilerdevehiculos\libs\manejodearchivos.c
+	"manejoDeArchivos.h"
+
+1716426932 c:\users\bersu\desktop\utn\programacion i\alquilerdevehiculos\libs\manejodearchivos.h
+	<stdio.h>
+	<stdlib.h>
+	"estructuras.h"
+
+1718595310 source:c:\users\bersu\desktop\utn\programacion i\alquilerdevehiculos\libs\reportesestadisticas.c
+	"reportesEstadisticas.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"gotoxy.h"
+
+1718642647 source:c:\users\bersu\desktop\utn\programacion i\alquilerdevehiculos\libs\utilidades.c
+	"utilidades.h"
+	"interfazUsuario.h"
+
+1718670086 source:c:\users\bersu\desktop\utn\programacion i\alquilerdevehiculos\libs\validaciones.c
+	<string.h>
+	<ctype.h>
+	"validaciones.h"
+
+1718667426 c:\users\bersu\desktop\utn\programacion i\alquilerdevehiculos\libs\personas.h
+	"estructuras.h"
+	"interfazUsuario.h"
+	"utilidades.h"
+
+1718677868 source:c:\users\bersu\desktop\utn\programacion i\alquilerdevehiculos\libs\personas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"personas.h"
+
+1718680849 source:c:\users\gc\desktop\tp\tp 2\alquilerdevehiculos.18.06.00.25\alquilerdevehiculos\libs\alquilerdata.c
+	"alquilerData.h"
+	<stdio.h>
+	<stdlib.h>
+
+1718680708 c:\users\gc\desktop\tp\tp 2\alquilerdevehiculos.18.06.00.25\alquilerdevehiculos\libs\alquilerdata.h
+	"estructuras.h"
+
+1718668357 c:\users\gc\desktop\tp\tp 2\alquilerdevehiculos.18.06.00.25\alquilerdevehiculos\libs\estructuras.h
+
+1716426314 source:c:\users\gc\desktop\tp\tp 2\alquilerdevehiculos.18.06.00.25\alquilerdevehiculos\libs\estructuras.c
+
+1491400448 source:c:\users\gc\desktop\tp\tp 2\alquilerdevehiculos.18.06.00.25\alquilerdevehiculos\libs\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1718680249 source:c:\users\gc\desktop\tp\tp 2\alquilerdevehiculos.18.06.00.25\alquilerdevehiculos\libs\interfazalquiler.c
+	"interfazAlquiler.h"
+	"interfazUsuario.h"
+
+1718662835 c:\users\gc\desktop\tp\tp 2\alquilerdevehiculos.18.06.00.25\alquilerdevehiculos\libs\interfazalquiler.h
+	"estructuras.h"
+	"interfazUsuario.h"
+	"validaciones.h"
+	"utilidades.h"
+	"alquilerData.h"
+
+1718673191 c:\users\gc\desktop\tp\tp 2\alquilerdevehiculos.18.06.00.25\alquilerdevehiculos\libs\interfazusuario.h
+	"estructuras.h"
+	"utilidades.h"
+	"reportesEstadisticas.h"
+	"LibreriaGestion.h"
+	"interfazAlquiler.h"
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"personas.h"
+
+1718634447 c:\users\gc\desktop\tp\tp 2\alquilerdevehiculos.18.06.00.25\alquilerdevehiculos\libs\utilidades.h
+	"estructuras.h"
+	<time.h>
+
+1718681754 c:\users\gc\desktop\tp\tp 2\alquilerdevehiculos.18.06.00.25\alquilerdevehiculos\libs\reportesestadisticas.h
+	"estructuras.h"
+	"interfazUsuario.h"
+
+1718683136 c:\users\gc\desktop\tp\tp 2\alquilerdevehiculos.18.06.00.25\alquilerdevehiculos\libs\libreriagestion.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	"estructuras.h"
+
+1491399894 c:\users\gc\desktop\tp\tp 2\alquilerdevehiculos.18.06.00.25\alquilerdevehiculos\libs\gotoxy.h
+
+1718667426 c:\users\gc\desktop\tp\tp 2\alquilerdevehiculos.18.06.00.25\alquilerdevehiculos\libs\personas.h
+	"estructuras.h"
+	"interfazUsuario.h"
+	"utilidades.h"
+
+1716765058 c:\users\gc\desktop\tp\tp 2\alquilerdevehiculos.18.06.00.25\alquilerdevehiculos\libs\validaciones.h
+	"estructuras.h"
+
+1718682011 source:c:\users\gc\desktop\tp\tp 2\alquilerdevehiculos.18.06.00.25\alquilerdevehiculos\libs\interfazusuariomenu.c
+	"interfazUsuario.h"
+	"gotoxy.h"
+	<stdio.h>
+
+1718682592 source:c:\users\gc\desktop\tp\tp 2\alquilerdevehiculos.18.06.00.25\alquilerdevehiculos\libs\libreriagestion.c
+	"LibreriaGestion.h"
+
+1716409400 source:c:\users\gc\desktop\tp\tp 2\alquilerdevehiculos.18.06.00.25\alquilerdevehiculos\libs\manejodearchivos.c
+	"manejoDeArchivos.h"
+
+1716426932 c:\users\gc\desktop\tp\tp 2\alquilerdevehiculos.18.06.00.25\alquilerdevehiculos\libs\manejodearchivos.h
+	<stdio.h>
+	<stdlib.h>
+	"estructuras.h"
+
+1718677868 source:c:\users\gc\desktop\tp\tp 2\alquilerdevehiculos.18.06.00.25\alquilerdevehiculos\libs\personas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"personas.h"
+
+1718642647 source:c:\users\gc\desktop\tp\tp 2\alquilerdevehiculos.18.06.00.25\alquilerdevehiculos\libs\utilidades.c
+	"utilidades.h"
+	"interfazUsuario.h"
+
+1718670086 source:c:\users\gc\desktop\tp\tp 2\alquilerdevehiculos.18.06.00.25\alquilerdevehiculos\libs\validaciones.c
+	<string.h>
+	<ctype.h>
+	"validaciones.h"
+
+1718673777 source:c:\users\gc\desktop\tp\tp 2\alquilerdevehiculos.18.06.00.25\alquilerdevehiculos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"estructuras.h"
+
+1718681754 source:c:\users\gc\desktop\tp\tp 2\alquilerdevehiculos.18.06.00.25\alquilerdevehiculos\libs\reportesestadisticas.c
+	"reportesEstadisticas.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"gotoxy.h"
+
+1718680849 source:c:\users\gc\desktop\tp\tp 2\alquilerdevehiculos.18.06.00.25-modificado x piero\alquilerdevehiculos\libs\alquilerdata.c
+	"alquilerData.h"
+	<stdio.h>
+	<stdlib.h>
+
+1718680708 c:\users\gc\desktop\tp\tp 2\alquilerdevehiculos.18.06.00.25-modificado x piero\alquilerdevehiculos\libs\alquilerdata.h
+	"estructuras.h"
+
+1718668357 c:\users\gc\desktop\tp\tp 2\alquilerdevehiculos.18.06.00.25-modificado x piero\alquilerdevehiculos\libs\estructuras.h
+
+1716426314 source:c:\users\gc\desktop\tp\tp 2\alquilerdevehiculos.18.06.00.25-modificado x piero\alquilerdevehiculos\libs\estructuras.c
+
+1491400448 source:c:\users\gc\desktop\tp\tp 2\alquilerdevehiculos.18.06.00.25-modificado x piero\alquilerdevehiculos\libs\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1718680249 source:c:\users\gc\desktop\tp\tp 2\alquilerdevehiculos.18.06.00.25-modificado x piero\alquilerdevehiculos\libs\interfazalquiler.c
+	"interfazAlquiler.h"
+	"interfazUsuario.h"
+
+1718662835 c:\users\gc\desktop\tp\tp 2\alquilerdevehiculos.18.06.00.25-modificado x piero\alquilerdevehiculos\libs\interfazalquiler.h
+	"estructuras.h"
+	"interfazUsuario.h"
+	"validaciones.h"
+	"utilidades.h"
+	"alquilerData.h"
+
+1718673191 c:\users\gc\desktop\tp\tp 2\alquilerdevehiculos.18.06.00.25-modificado x piero\alquilerdevehiculos\libs\interfazusuario.h
+	"estructuras.h"
+	"utilidades.h"
+	"reportesEstadisticas.h"
+	"LibreriaGestion.h"
+	"interfazAlquiler.h"
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"personas.h"
+
+1718634447 c:\users\gc\desktop\tp\tp 2\alquilerdevehiculos.18.06.00.25-modificado x piero\alquilerdevehiculos\libs\utilidades.h
+	"estructuras.h"
+	<time.h>
+
+1718681754 c:\users\gc\desktop\tp\tp 2\alquilerdevehiculos.18.06.00.25-modificado x piero\alquilerdevehiculos\libs\reportesestadisticas.h
+	"estructuras.h"
+	"interfazUsuario.h"
+
+1718683136 c:\users\gc\desktop\tp\tp 2\alquilerdevehiculos.18.06.00.25-modificado x piero\alquilerdevehiculos\libs\libreriagestion.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	"estructuras.h"
+
+1491399894 c:\users\gc\desktop\tp\tp 2\alquilerdevehiculos.18.06.00.25-modificado x piero\alquilerdevehiculos\libs\gotoxy.h
+
+1718667426 c:\users\gc\desktop\tp\tp 2\alquilerdevehiculos.18.06.00.25-modificado x piero\alquilerdevehiculos\libs\personas.h
+	"estructuras.h"
+	"interfazUsuario.h"
+	"utilidades.h"
+
+1716765058 c:\users\gc\desktop\tp\tp 2\alquilerdevehiculos.18.06.00.25-modificado x piero\alquilerdevehiculos\libs\validaciones.h
+	"estructuras.h"
+
+1718682011 source:c:\users\gc\desktop\tp\tp 2\alquilerdevehiculos.18.06.00.25-modificado x piero\alquilerdevehiculos\libs\interfazusuariomenu.c
+	"interfazUsuario.h"
+	"gotoxy.h"
+	<stdio.h>
+
+1718683747 source:c:\users\gc\desktop\tp\tp 2\alquilerdevehiculos.18.06.00.25-modificado x piero\alquilerdevehiculos\libs\libreriagestion.c
+	"LibreriaGestion.h"
+
+1716409400 source:c:\users\gc\desktop\tp\tp 2\alquilerdevehiculos.18.06.00.25-modificado x piero\alquilerdevehiculos\libs\manejodearchivos.c
+	"manejoDeArchivos.h"
+
+1716426932 c:\users\gc\desktop\tp\tp 2\alquilerdevehiculos.18.06.00.25-modificado x piero\alquilerdevehiculos\libs\manejodearchivos.h
+	<stdio.h>
+	<stdlib.h>
+	"estructuras.h"
+
+1718677868 source:c:\users\gc\desktop\tp\tp 2\alquilerdevehiculos.18.06.00.25-modificado x piero\alquilerdevehiculos\libs\personas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"personas.h"
+
+1718642647 source:c:\users\gc\desktop\tp\tp 2\alquilerdevehiculos.18.06.00.25-modificado x piero\alquilerdevehiculos\libs\utilidades.c
+	"utilidades.h"
+	"interfazUsuario.h"
+
+1718670086 source:c:\users\gc\desktop\tp\tp 2\alquilerdevehiculos.18.06.00.25-modificado x piero\alquilerdevehiculos\libs\validaciones.c
+	<string.h>
+	<ctype.h>
+	"validaciones.h"
+
+1718673777 source:c:\users\gc\desktop\tp\tp 2\alquilerdevehiculos.18.06.00.25-modificado x piero\alquilerdevehiculos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"estructuras.h"
+
+1718680850 source:c:\users\jeremias\desktop\alquilerdevehiculos.18.06.00.25-modificado x piero\alquilerdevehiculos\libs\alquilerdata.c
+	"alquilerData.h"
+	<stdio.h>
+	<stdlib.h>
+
+1718680708 c:\users\jeremias\desktop\alquilerdevehiculos.18.06.00.25-modificado x piero\alquilerdevehiculos\libs\alquilerdata.h
+	"estructuras.h"
+
+1718668358 c:\users\jeremias\desktop\alquilerdevehiculos.18.06.00.25-modificado x piero\alquilerdevehiculos\libs\estructuras.h
+
+1716426314 source:c:\users\jeremias\desktop\alquilerdevehiculos.18.06.00.25-modificado x piero\alquilerdevehiculos\libs\estructuras.c
+
+1491400448 source:c:\users\jeremias\desktop\alquilerdevehiculos.18.06.00.25-modificado x piero\alquilerdevehiculos\libs\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1718680250 source:c:\users\jeremias\desktop\alquilerdevehiculos.18.06.00.25-modificado x piero\alquilerdevehiculos\libs\interfazalquiler.c
+	"interfazAlquiler.h"
+	"interfazUsuario.h"
+
+1718662836 c:\users\jeremias\desktop\alquilerdevehiculos.18.06.00.25-modificado x piero\alquilerdevehiculos\libs\interfazalquiler.h
+	"estructuras.h"
+	"interfazUsuario.h"
+	"validaciones.h"
+	"utilidades.h"
+	"alquilerData.h"
+
+1718673192 c:\users\jeremias\desktop\alquilerdevehiculos.18.06.00.25-modificado x piero\alquilerdevehiculos\libs\interfazusuario.h
+	"estructuras.h"
+	"utilidades.h"
+	"reportesEstadisticas.h"
+	"LibreriaGestion.h"
+	"interfazAlquiler.h"
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"personas.h"
+
+1718634448 c:\users\jeremias\desktop\alquilerdevehiculos.18.06.00.25-modificado x piero\alquilerdevehiculos\libs\utilidades.h
+	"estructuras.h"
+	<time.h>
+
+1718681756 c:\users\jeremias\desktop\alquilerdevehiculos.18.06.00.25-modificado x piero\alquilerdevehiculos\libs\reportesestadisticas.h
+	"estructuras.h"
+	"interfazUsuario.h"
+
+1718683138 c:\users\jeremias\desktop\alquilerdevehiculos.18.06.00.25-modificado x piero\alquilerdevehiculos\libs\libreriagestion.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	"estructuras.h"
+
+1491399894 c:\users\jeremias\desktop\alquilerdevehiculos.18.06.00.25-modificado x piero\alquilerdevehiculos\libs\gotoxy.h
+
+1718684827 c:\users\jeremias\desktop\alquilerdevehiculos.18.06.00.25-modificado x piero\alquilerdevehiculos\libs\personas.h
+	"estructuras.h"
+	"interfazUsuario.h"
+	"utilidades.h"
+
+1716765058 c:\users\jeremias\desktop\alquilerdevehiculos.18.06.00.25-modificado x piero\alquilerdevehiculos\libs\validaciones.h
+	"estructuras.h"
+
+1718684545 source:c:\users\jeremias\desktop\alquilerdevehiculos.18.06.00.25-modificado x piero\alquilerdevehiculos\libs\interfazusuariomenu.c
+	"interfazUsuario.h"
+	"gotoxy.h"
+	<stdio.h>
+
+1718683748 source:c:\users\jeremias\desktop\alquilerdevehiculos.18.06.00.25-modificado x piero\alquilerdevehiculos\libs\libreriagestion.c
+	"LibreriaGestion.h"
+
+1716409400 source:c:\users\jeremias\desktop\alquilerdevehiculos.18.06.00.25-modificado x piero\alquilerdevehiculos\libs\manejodearchivos.c
+	"manejoDeArchivos.h"
+
+1716426932 c:\users\jeremias\desktop\alquilerdevehiculos.18.06.00.25-modificado x piero\alquilerdevehiculos\libs\manejodearchivos.h
+	<stdio.h>
+	<stdlib.h>
+	"estructuras.h"
+
+1718686174 source:c:\users\jeremias\desktop\alquilerdevehiculos.18.06.00.25-modificado x piero\alquilerdevehiculos\libs\personas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"personas.h"
+
+1718683918 source:c:\users\jeremias\desktop\alquilerdevehiculos.18.06.00.25-modificado x piero\alquilerdevehiculos\libs\reportesestadisticas.c
+	"reportesEstadisticas.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"gotoxy.h"
+
+1718642648 source:c:\users\jeremias\desktop\alquilerdevehiculos.18.06.00.25-modificado x piero\alquilerdevehiculos\libs\utilidades.c
+	"utilidades.h"
+	"interfazUsuario.h"
+
+1718685260 source:c:\users\jeremias\desktop\alquilerdevehiculos.18.06.00.25-modificado x piero\alquilerdevehiculos\libs\validaciones.c
+	<string.h>
+	<ctype.h>
+	"validaciones.h"
+
+1718673778 source:c:\users\jeremias\desktop\alquilerdevehiculos.18.06.00.25-modificado x piero\alquilerdevehiculos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"estructuras.h"
+
+1718680850 source:c:\users\jeremias\desktop\alquilerdevehiculos1.50am\alquilerdevehiculos\libs\alquilerdata.c
+	"alquilerData.h"
+	<stdio.h>
+	<stdlib.h>
+
+1718680708 c:\users\jeremias\desktop\alquilerdevehiculos1.50am\alquilerdevehiculos\libs\alquilerdata.h
+	"estructuras.h"
+
+1718668358 c:\users\jeremias\desktop\alquilerdevehiculos1.50am\alquilerdevehiculos\libs\estructuras.h
+
+1716426314 source:c:\users\jeremias\desktop\alquilerdevehiculos1.50am\alquilerdevehiculos\libs\estructuras.c
+
+1491400448 source:c:\users\jeremias\desktop\alquilerdevehiculos1.50am\alquilerdevehiculos\libs\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1718680250 source:c:\users\jeremias\desktop\alquilerdevehiculos1.50am\alquilerdevehiculos\libs\interfazalquiler.c
+	"interfazAlquiler.h"
+	"interfazUsuario.h"
+
+1718662836 c:\users\jeremias\desktop\alquilerdevehiculos1.50am\alquilerdevehiculos\libs\interfazalquiler.h
+	"estructuras.h"
+	"interfazUsuario.h"
+	"validaciones.h"
+	"utilidades.h"
+	"alquilerData.h"
+
+1718673192 c:\users\jeremias\desktop\alquilerdevehiculos1.50am\alquilerdevehiculos\libs\interfazusuario.h
+	"estructuras.h"
+	"utilidades.h"
+	"reportesEstadisticas.h"
+	"LibreriaGestion.h"
+	"interfazAlquiler.h"
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"personas.h"
+
+1718634448 c:\users\jeremias\desktop\alquilerdevehiculos1.50am\alquilerdevehiculos\libs\utilidades.h
+	"estructuras.h"
+	<time.h>
+
+1718681756 c:\users\jeremias\desktop\alquilerdevehiculos1.50am\alquilerdevehiculos\libs\reportesestadisticas.h
+	"estructuras.h"
+	"interfazUsuario.h"
+
+1718683138 c:\users\jeremias\desktop\alquilerdevehiculos1.50am\alquilerdevehiculos\libs\libreriagestion.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	"estructuras.h"
+
+1491399894 c:\users\jeremias\desktop\alquilerdevehiculos1.50am\alquilerdevehiculos\libs\gotoxy.h
+
+1718684827 c:\users\jeremias\desktop\alquilerdevehiculos1.50am\alquilerdevehiculos\libs\personas.h
+	"estructuras.h"
+	"interfazUsuario.h"
+	"utilidades.h"
+
+1716765058 c:\users\jeremias\desktop\alquilerdevehiculos1.50am\alquilerdevehiculos\libs\validaciones.h
+	"estructuras.h"
+
+1718684545 source:c:\users\jeremias\desktop\alquilerdevehiculos1.50am\alquilerdevehiculos\libs\interfazusuariomenu.c
+	"interfazUsuario.h"
+	"gotoxy.h"
+	<stdio.h>
+
+1718683748 source:c:\users\jeremias\desktop\alquilerdevehiculos1.50am\alquilerdevehiculos\libs\libreriagestion.c
+	"LibreriaGestion.h"
+
+1716409400 source:c:\users\jeremias\desktop\alquilerdevehiculos1.50am\alquilerdevehiculos\libs\manejodearchivos.c
+	"manejoDeArchivos.h"
+
+1716426932 c:\users\jeremias\desktop\alquilerdevehiculos1.50am\alquilerdevehiculos\libs\manejodearchivos.h
+	<stdio.h>
+	<stdlib.h>
+	"estructuras.h"
+
+1718683918 source:c:\users\jeremias\desktop\alquilerdevehiculos1.50am\alquilerdevehiculos\libs\reportesestadisticas.c
+	"reportesEstadisticas.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"gotoxy.h"
+
+1718642648 source:c:\users\jeremias\desktop\alquilerdevehiculos1.50am\alquilerdevehiculos\libs\utilidades.c
+	"utilidades.h"
+	"interfazUsuario.h"
+
+1718685260 source:c:\users\jeremias\desktop\alquilerdevehiculos1.50am\alquilerdevehiculos\libs\validaciones.c
+	<string.h>
+	<ctype.h>
+	"validaciones.h"
+
+1718673778 source:c:\users\jeremias\desktop\alquilerdevehiculos1.50am\alquilerdevehiculos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"estructuras.h"
+
+1718711747 source:c:\users\bersu\desktop\alquilerdevehiculos17.6\alquilerdevehiculos2.05am\alquilerdevehiculos\libs\alquilerdata.c
+	"alquilerData.h"
+	<stdio.h>
+	<stdlib.h>
+
+1718711246 c:\users\bersu\desktop\alquilerdevehiculos17.6\alquilerdevehiculos2.05am\alquilerdevehiculos\libs\alquilerdata.h
+	"estructuras.h"
+
+1718715674 c:\users\bersu\desktop\alquilerdevehiculos17.6\alquilerdevehiculos2.05am\alquilerdevehiculos\libs\estructuras.h
+
+1716426314 source:c:\users\bersu\desktop\alquilerdevehiculos17.6\alquilerdevehiculos2.05am\alquilerdevehiculos\libs\estructuras.c
+
+1491400448 source:c:\users\bersu\desktop\alquilerdevehiculos17.6\alquilerdevehiculos2.05am\alquilerdevehiculos\libs\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1718680250 source:c:\users\bersu\desktop\alquilerdevehiculos17.6\alquilerdevehiculos2.05am\alquilerdevehiculos\libs\interfazalquiler.c
+	"interfazAlquiler.h"
+	"interfazUsuario.h"
+
+1718662836 c:\users\bersu\desktop\alquilerdevehiculos17.6\alquilerdevehiculos2.05am\alquilerdevehiculos\libs\interfazalquiler.h
+	"estructuras.h"
+	"interfazUsuario.h"
+	"validaciones.h"
+	"utilidades.h"
+	"alquilerData.h"
+
+1718673192 c:\users\bersu\desktop\alquilerdevehiculos17.6\alquilerdevehiculos2.05am\alquilerdevehiculos\libs\interfazusuario.h
+	"estructuras.h"
+	"utilidades.h"
+	"reportesEstadisticas.h"
+	"LibreriaGestion.h"
+	"interfazAlquiler.h"
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"personas.h"
+
+1718634448 c:\users\bersu\desktop\alquilerdevehiculos17.6\alquilerdevehiculos2.05am\alquilerdevehiculos\libs\utilidades.h
+	"estructuras.h"
+	<time.h>
+
+1718681756 c:\users\bersu\desktop\alquilerdevehiculos17.6\alquilerdevehiculos2.05am\alquilerdevehiculos\libs\reportesestadisticas.h
+	"estructuras.h"
+	"interfazUsuario.h"
+
+1718683138 c:\users\bersu\desktop\alquilerdevehiculos17.6\alquilerdevehiculos2.05am\alquilerdevehiculos\libs\libreriagestion.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	"estructuras.h"
+
+1491399894 c:\users\bersu\desktop\alquilerdevehiculos17.6\alquilerdevehiculos2.05am\alquilerdevehiculos\libs\gotoxy.h
+
+1718684828 c:\users\bersu\desktop\alquilerdevehiculos17.6\alquilerdevehiculos2.05am\alquilerdevehiculos\libs\personas.h
+	"estructuras.h"
+	"interfazUsuario.h"
+	"utilidades.h"
+
+1716765058 c:\users\bersu\desktop\alquilerdevehiculos17.6\alquilerdevehiculos2.05am\alquilerdevehiculos\libs\validaciones.h
+	"estructuras.h"
+
+1718684546 source:c:\users\bersu\desktop\alquilerdevehiculos17.6\alquilerdevehiculos2.05am\alquilerdevehiculos\libs\interfazusuariomenu.c
+	"interfazUsuario.h"
+	"gotoxy.h"
+	<stdio.h>
+
+1718683748 source:c:\users\bersu\desktop\alquilerdevehiculos17.6\alquilerdevehiculos2.05am\alquilerdevehiculos\libs\libreriagestion.c
+	"LibreriaGestion.h"
+
+1716409400 source:c:\users\bersu\desktop\alquilerdevehiculos17.6\alquilerdevehiculos2.05am\alquilerdevehiculos\libs\manejodearchivos.c
+	"manejoDeArchivos.h"
+
+1716426932 c:\users\bersu\desktop\alquilerdevehiculos17.6\alquilerdevehiculos2.05am\alquilerdevehiculos\libs\manejodearchivos.h
+	<stdio.h>
+	<stdlib.h>
+	"estructuras.h"
+
+1718686988 source:c:\users\bersu\desktop\alquilerdevehiculos17.6\alquilerdevehiculos2.05am\alquilerdevehiculos\libs\personas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"personas.h"
+
+1718683918 source:c:\users\bersu\desktop\alquilerdevehiculos17.6\alquilerdevehiculos2.05am\alquilerdevehiculos\libs\reportesestadisticas.c
+	"reportesEstadisticas.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"gotoxy.h"
+
+1718642648 source:c:\users\bersu\desktop\alquilerdevehiculos17.6\alquilerdevehiculos2.05am\alquilerdevehiculos\libs\utilidades.c
+	"utilidades.h"
+	"interfazUsuario.h"
+
+1718685262 source:c:\users\bersu\desktop\alquilerdevehiculos17.6\alquilerdevehiculos2.05am\alquilerdevehiculos\libs\validaciones.c
+	<string.h>
+	<ctype.h>
+	"validaciones.h"
+
+1718673778 source:c:\users\bersu\desktop\alquilerdevehiculos17.6\alquilerdevehiculos2.05am\alquilerdevehiculos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"estructuras.h"
+
+1718711747 source:c:\users\gc\desktop\que se acabee\alquilerdevehiculos18.06.10.22\alquilerdevehiculos\libs\alquilerdata.c
+	"alquilerData.h"
+	<stdio.h>
+	<stdlib.h>
+
+1718711246 c:\users\gc\desktop\que se acabee\alquilerdevehiculos18.06.10.22\alquilerdevehiculos\libs\alquilerdata.h
+	"estructuras.h"
+
+1718715674 c:\users\gc\desktop\que se acabee\alquilerdevehiculos18.06.10.22\alquilerdevehiculos\libs\estructuras.h
+
+1716426314 source:c:\users\gc\desktop\que se acabee\alquilerdevehiculos18.06.10.22\alquilerdevehiculos\libs\estructuras.c
+
+1491400448 source:c:\users\gc\desktop\que se acabee\alquilerdevehiculos18.06.10.22\alquilerdevehiculos\libs\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1718680250 source:c:\users\gc\desktop\que se acabee\alquilerdevehiculos18.06.10.22\alquilerdevehiculos\libs\interfazalquiler.c
+	"interfazAlquiler.h"
+	"interfazUsuario.h"
+
+1718662836 c:\users\gc\desktop\que se acabee\alquilerdevehiculos18.06.10.22\alquilerdevehiculos\libs\interfazalquiler.h
+	"estructuras.h"
+	"interfazUsuario.h"
+	"validaciones.h"
+	"utilidades.h"
+	"alquilerData.h"
+
+1718673192 c:\users\gc\desktop\que se acabee\alquilerdevehiculos18.06.10.22\alquilerdevehiculos\libs\interfazusuario.h
+	"estructuras.h"
+	"utilidades.h"
+	"reportesEstadisticas.h"
+	"LibreriaGestion.h"
+	"interfazAlquiler.h"
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"personas.h"
+
+1718634448 c:\users\gc\desktop\que se acabee\alquilerdevehiculos18.06.10.22\alquilerdevehiculos\libs\utilidades.h
+	"estructuras.h"
+	<time.h>
+
+1718681756 c:\users\gc\desktop\que se acabee\alquilerdevehiculos18.06.10.22\alquilerdevehiculos\libs\reportesestadisticas.h
+	"estructuras.h"
+	"interfazUsuario.h"
+
+1718722985 c:\users\gc\desktop\que se acabee\alquilerdevehiculos18.06.10.22\alquilerdevehiculos\libs\libreriagestion.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	"estructuras.h"
+
+1491399894 c:\users\gc\desktop\que se acabee\alquilerdevehiculos18.06.10.22\alquilerdevehiculos\libs\gotoxy.h
+
+1718684828 c:\users\gc\desktop\que se acabee\alquilerdevehiculos18.06.10.22\alquilerdevehiculos\libs\personas.h
+	"estructuras.h"
+	"interfazUsuario.h"
+	"utilidades.h"
+
+1716765058 c:\users\gc\desktop\que se acabee\alquilerdevehiculos18.06.10.22\alquilerdevehiculos\libs\validaciones.h
+	"estructuras.h"
+
+1718684546 source:c:\users\gc\desktop\que se acabee\alquilerdevehiculos18.06.10.22\alquilerdevehiculos\libs\interfazusuariomenu.c
+	"interfazUsuario.h"
+	"gotoxy.h"
+	<stdio.h>
+
+1718722994 source:c:\users\gc\desktop\que se acabee\alquilerdevehiculos18.06.10.22\alquilerdevehiculos\libs\libreriagestion.c
+	"LibreriaGestion.h"
+
+1716409400 source:c:\users\gc\desktop\que se acabee\alquilerdevehiculos18.06.10.22\alquilerdevehiculos\libs\manejodearchivos.c
+	"manejoDeArchivos.h"
+
+1716426932 c:\users\gc\desktop\que se acabee\alquilerdevehiculos18.06.10.22\alquilerdevehiculos\libs\manejodearchivos.h
+	<stdio.h>
+	<stdlib.h>
+	"estructuras.h"
+
+1718722128 source:c:\users\gc\desktop\que se acabee\alquilerdevehiculos18.06.10.22\alquilerdevehiculos\libs\personas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"personas.h"
+
+1718683918 source:c:\users\gc\desktop\que se acabee\alquilerdevehiculos18.06.10.22\alquilerdevehiculos\libs\reportesestadisticas.c
+	"reportesEstadisticas.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"gotoxy.h"
+
+1718642648 source:c:\users\gc\desktop\que se acabee\alquilerdevehiculos18.06.10.22\alquilerdevehiculos\libs\utilidades.c
+	"utilidades.h"
+	"interfazUsuario.h"
+
+1718685262 source:c:\users\gc\desktop\que se acabee\alquilerdevehiculos18.06.10.22\alquilerdevehiculos\libs\validaciones.c
+	<string.h>
+	<ctype.h>
+	"validaciones.h"
+
+1718673778 source:c:\users\gc\desktop\que se acabee\alquilerdevehiculos18.06.10.22\alquilerdevehiculos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"estructuras.h"
+
+1718726113 source:c:\users\gc\desktop\12.55\alquilerdevehiculos18.06.10.22\alquilerdevehiculos\libs\alquilerdata.c
+	"alquilerData.h"
+	<stdio.h>
+	<stdlib.h>
+
+1718726113 c:\users\gc\desktop\12.55\alquilerdevehiculos18.06.10.22\alquilerdevehiculos\libs\alquilerdata.h
+	"estructuras.h"
+
+1718726113 c:\users\gc\desktop\12.55\alquilerdevehiculos18.06.10.22\alquilerdevehiculos\libs\estructuras.h
+
+1718726113 source:c:\users\gc\desktop\12.55\alquilerdevehiculos18.06.10.22\alquilerdevehiculos\libs\estructuras.c
+
+1718726113 source:c:\users\gc\desktop\12.55\alquilerdevehiculos18.06.10.22\alquilerdevehiculos\libs\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1718726113 source:c:\users\gc\desktop\12.55\alquilerdevehiculos18.06.10.22\alquilerdevehiculos\libs\interfazalquiler.c
+	"interfazAlquiler.h"
+	"interfazUsuario.h"
+
+1718726113 c:\users\gc\desktop\12.55\alquilerdevehiculos18.06.10.22\alquilerdevehiculos\libs\interfazalquiler.h
+	"estructuras.h"
+	"interfazUsuario.h"
+	"validaciones.h"
+	"utilidades.h"
+	"alquilerData.h"
+
+1718726113 c:\users\gc\desktop\12.55\alquilerdevehiculos18.06.10.22\alquilerdevehiculos\libs\interfazusuario.h
+	"estructuras.h"
+	"utilidades.h"
+	"reportesEstadisticas.h"
+	"LibreriaGestion.h"
+	"interfazAlquiler.h"
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"personas.h"
+
+1718726113 c:\users\gc\desktop\12.55\alquilerdevehiculos18.06.10.22\alquilerdevehiculos\libs\utilidades.h
+	"estructuras.h"
+	<time.h>
+
+1718726113 c:\users\gc\desktop\12.55\alquilerdevehiculos18.06.10.22\alquilerdevehiculos\libs\reportesestadisticas.h
+	"estructuras.h"
+	"interfazUsuario.h"
+
+1718726113 c:\users\gc\desktop\12.55\alquilerdevehiculos18.06.10.22\alquilerdevehiculos\libs\libreriagestion.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	"estructuras.h"
+
+1718726113 c:\users\gc\desktop\12.55\alquilerdevehiculos18.06.10.22\alquilerdevehiculos\libs\gotoxy.h
+
+1718726113 c:\users\gc\desktop\12.55\alquilerdevehiculos18.06.10.22\alquilerdevehiculos\libs\personas.h
+	"estructuras.h"
+	"interfazUsuario.h"
+	"utilidades.h"
+
+1718726113 c:\users\gc\desktop\12.55\alquilerdevehiculos18.06.10.22\alquilerdevehiculos\libs\validaciones.h
+	"estructuras.h"
+
+1718726113 source:c:\users\gc\desktop\12.55\alquilerdevehiculos18.06.10.22\alquilerdevehiculos\libs\interfazusuariomenu.c
+	"interfazUsuario.h"
+	"gotoxy.h"
+	<stdio.h>
+
+1718726113 source:c:\users\gc\desktop\12.55\alquilerdevehiculos18.06.10.22\alquilerdevehiculos\libs\manejodearchivos.c
+	"manejoDeArchivos.h"
+
+1718726113 c:\users\gc\desktop\12.55\alquilerdevehiculos18.06.10.22\alquilerdevehiculos\libs\manejodearchivos.h
+	<stdio.h>
+	<stdlib.h>
+	"estructuras.h"
+
+1718726113 source:c:\users\gc\desktop\12.55\alquilerdevehiculos18.06.10.22\alquilerdevehiculos\libs\personas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"personas.h"
+
+1718726113 source:c:\users\gc\desktop\12.55\alquilerdevehiculos18.06.10.22\alquilerdevehiculos\libs\reportesestadisticas.c
+	"reportesEstadisticas.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"gotoxy.h"
+
+1718726113 source:c:\users\gc\desktop\12.55\alquilerdevehiculos18.06.10.22\alquilerdevehiculos\libs\utilidades.c
+	"utilidades.h"
+	"interfazUsuario.h"
+
+1718726113 source:c:\users\gc\desktop\12.55\alquilerdevehiculos18.06.10.22\alquilerdevehiculos\libs\validaciones.c
+	<string.h>
+	<ctype.h>
+	"validaciones.h"
+
+1718726113 source:c:\users\gc\desktop\12.55\alquilerdevehiculos18.06.10.22\alquilerdevehiculos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"estructuras.h"
+
+1718726408 source:c:\users\gc\desktop\12.55\alquilerdevehiculos18.06.10.22\alquilerdevehiculos\libs\libreriagestion.c
+	"LibreriaGestion.h"
+
+1718726114 source:c:\users\jeremias\desktop\alquilerdevehiculos18.06.10.22-13.01 piero\alquilerdevehiculos\libs\alquilerdata.c
+	"alquilerData.h"
+	<stdio.h>
+	<stdlib.h>
+
+1718726114 c:\users\jeremias\desktop\alquilerdevehiculos18.06.10.22-13.01 piero\alquilerdevehiculos\libs\alquilerdata.h
+	"estructuras.h"
+
+1718726114 c:\users\jeremias\desktop\alquilerdevehiculos18.06.10.22-13.01 piero\alquilerdevehiculos\libs\estructuras.h
+
+1718726114 source:c:\users\jeremias\desktop\alquilerdevehiculos18.06.10.22-13.01 piero\alquilerdevehiculos\libs\estructuras.c
+
+1718726114 source:c:\users\jeremias\desktop\alquilerdevehiculos18.06.10.22-13.01 piero\alquilerdevehiculos\libs\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1718726114 source:c:\users\jeremias\desktop\alquilerdevehiculos18.06.10.22-13.01 piero\alquilerdevehiculos\libs\interfazalquiler.c
+	"interfazAlquiler.h"
+	"interfazUsuario.h"
+
+1718726114 c:\users\jeremias\desktop\alquilerdevehiculos18.06.10.22-13.01 piero\alquilerdevehiculos\libs\interfazalquiler.h
+	"estructuras.h"
+	"interfazUsuario.h"
+	"validaciones.h"
+	"utilidades.h"
+	"alquilerData.h"
+
+1718726114 c:\users\jeremias\desktop\alquilerdevehiculos18.06.10.22-13.01 piero\alquilerdevehiculos\libs\interfazusuario.h
+	"estructuras.h"
+	"utilidades.h"
+	"reportesEstadisticas.h"
+	"LibreriaGestion.h"
+	"interfazAlquiler.h"
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"personas.h"
+
+1718726114 c:\users\jeremias\desktop\alquilerdevehiculos18.06.10.22-13.01 piero\alquilerdevehiculos\libs\utilidades.h
+	"estructuras.h"
+	<time.h>
+
+1718726114 c:\users\jeremias\desktop\alquilerdevehiculos18.06.10.22-13.01 piero\alquilerdevehiculos\libs\reportesestadisticas.h
+	"estructuras.h"
+	"interfazUsuario.h"
+
+1718726114 c:\users\jeremias\desktop\alquilerdevehiculos18.06.10.22-13.01 piero\alquilerdevehiculos\libs\libreriagestion.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	"estructuras.h"
+
+1718726114 c:\users\jeremias\desktop\alquilerdevehiculos18.06.10.22-13.01 piero\alquilerdevehiculos\libs\gotoxy.h
+
+1718728775 c:\users\jeremias\desktop\alquilerdevehiculos18.06.10.22-13.01 piero\alquilerdevehiculos\libs\personas.h
+	"estructuras.h"
+	"interfazUsuario.h"
+	"utilidades.h"
+
+1718726114 c:\users\jeremias\desktop\alquilerdevehiculos18.06.10.22-13.01 piero\alquilerdevehiculos\libs\validaciones.h
+	"estructuras.h"
+
+1718726114 source:c:\users\jeremias\desktop\alquilerdevehiculos18.06.10.22-13.01 piero\alquilerdevehiculos\libs\interfazusuariomenu.c
+	"interfazUsuario.h"
+	"gotoxy.h"
+	<stdio.h>
+
+1718726410 source:c:\users\jeremias\desktop\alquilerdevehiculos18.06.10.22-13.01 piero\alquilerdevehiculos\libs\libreriagestion.c
+	"LibreriaGestion.h"
+
+1718726114 source:c:\users\jeremias\desktop\alquilerdevehiculos18.06.10.22-13.01 piero\alquilerdevehiculos\libs\manejodearchivos.c
+	"manejoDeArchivos.h"
+
+1718726114 c:\users\jeremias\desktop\alquilerdevehiculos18.06.10.22-13.01 piero\alquilerdevehiculos\libs\manejodearchivos.h
+	<stdio.h>
+	<stdlib.h>
+	"estructuras.h"
+
+1718726114 source:c:\users\jeremias\desktop\alquilerdevehiculos18.06.10.22-13.01 piero\alquilerdevehiculos\libs\personas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"personas.h"
+
+1718726466 source:c:\users\jeremias\desktop\alquilerdevehiculos18.06.10.22-13.01 piero\alquilerdevehiculos\libs\reportesestadisticas.c
+	"reportesEstadisticas.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"gotoxy.h"
+
+1718726114 source:c:\users\jeremias\desktop\alquilerdevehiculos18.06.10.22-13.01 piero\alquilerdevehiculos\libs\utilidades.c
+	"utilidades.h"
+	"interfazUsuario.h"
+
+1718726114 source:c:\users\jeremias\desktop\alquilerdevehiculos18.06.10.22-13.01 piero\alquilerdevehiculos\libs\validaciones.c
+	<string.h>
+	<ctype.h>
+	"validaciones.h"
+
+1718726114 source:c:\users\jeremias\desktop\alquilerdevehiculos18.06.10.22-13.01 piero\alquilerdevehiculos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"estructuras.h"
+
+1718729323 source:c:\users\ezequiel\downloads\alquilerdevehiculos18.06.10.22-13.01 piero\alquilerdevehiculos\libs\alquilerdata.c
+	"alquilerData.h"
+	<stdio.h>
+	<stdlib.h>
+
+1718726114 c:\users\ezequiel\downloads\alquilerdevehiculos18.06.10.22-13.01 piero\alquilerdevehiculos\libs\alquilerdata.h
+	"estructuras.h"
+
+1718726114 c:\users\ezequiel\downloads\alquilerdevehiculos18.06.10.22-13.01 piero\alquilerdevehiculos\libs\estructuras.h
+
+1718726114 source:c:\users\ezequiel\downloads\alquilerdevehiculos18.06.10.22-13.01 piero\alquilerdevehiculos\libs\estructuras.c
+
+1718726114 source:c:\users\ezequiel\downloads\alquilerdevehiculos18.06.10.22-13.01 piero\alquilerdevehiculos\libs\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1718729525 source:c:\users\ezequiel\downloads\alquilerdevehiculos18.06.10.22-13.01 piero\alquilerdevehiculos\libs\interfazalquiler.c
+	"interfazAlquiler.h"
+	"interfazUsuario.h"
+
+1718726114 c:\users\ezequiel\downloads\alquilerdevehiculos18.06.10.22-13.01 piero\alquilerdevehiculos\libs\interfazalquiler.h
+	"estructuras.h"
+	"interfazUsuario.h"
+	"validaciones.h"
+	"utilidades.h"
+	"alquilerData.h"
+
+1718726114 c:\users\ezequiel\downloads\alquilerdevehiculos18.06.10.22-13.01 piero\alquilerdevehiculos\libs\interfazusuario.h
+	"estructuras.h"
+	"utilidades.h"
+	"reportesEstadisticas.h"
+	"LibreriaGestion.h"
+	"interfazAlquiler.h"
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"personas.h"
+
+1718726114 c:\users\ezequiel\downloads\alquilerdevehiculos18.06.10.22-13.01 piero\alquilerdevehiculos\libs\utilidades.h
+	"estructuras.h"
+	<time.h>
+
+1718726114 c:\users\ezequiel\downloads\alquilerdevehiculos18.06.10.22-13.01 piero\alquilerdevehiculos\libs\reportesestadisticas.h
+	"estructuras.h"
+	"interfazUsuario.h"
+
+1718726114 c:\users\ezequiel\downloads\alquilerdevehiculos18.06.10.22-13.01 piero\alquilerdevehiculos\libs\libreriagestion.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	"estructuras.h"
+
+1718726114 c:\users\ezequiel\downloads\alquilerdevehiculos18.06.10.22-13.01 piero\alquilerdevehiculos\libs\gotoxy.h
+
+1718728776 c:\users\ezequiel\downloads\alquilerdevehiculos18.06.10.22-13.01 piero\alquilerdevehiculos\libs\personas.h
+	"estructuras.h"
+	"interfazUsuario.h"
+	"utilidades.h"
+
+1718726114 c:\users\ezequiel\downloads\alquilerdevehiculos18.06.10.22-13.01 piero\alquilerdevehiculos\libs\validaciones.h
+	"estructuras.h"
+
+1718729728 source:c:\users\ezequiel\downloads\alquilerdevehiculos18.06.10.22-13.01 piero\alquilerdevehiculos\libs\interfazusuariomenu.c
+	"interfazUsuario.h"
+	"gotoxy.h"
+	<stdio.h>
+
+1718730536 source:c:\users\ezequiel\downloads\alquilerdevehiculos18.06.10.22-13.01 piero\alquilerdevehiculos\libs\libreriagestion.c
+	"LibreriaGestion.h"
+
+1718726114 source:c:\users\ezequiel\downloads\alquilerdevehiculos18.06.10.22-13.01 piero\alquilerdevehiculos\libs\manejodearchivos.c
+	"manejoDeArchivos.h"
+
+1718726114 c:\users\ezequiel\downloads\alquilerdevehiculos18.06.10.22-13.01 piero\alquilerdevehiculos\libs\manejodearchivos.h
+	<stdio.h>
+	<stdlib.h>
+	"estructuras.h"
+
+1718730625 source:c:\users\ezequiel\downloads\alquilerdevehiculos18.06.10.22-13.01 piero\alquilerdevehiculos\libs\personas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"personas.h"
+
+1718726466 source:c:\users\ezequiel\downloads\alquilerdevehiculos18.06.10.22-13.01 piero\alquilerdevehiculos\libs\reportesestadisticas.c
+	"reportesEstadisticas.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"gotoxy.h"
+
+1718726114 source:c:\users\ezequiel\downloads\alquilerdevehiculos18.06.10.22-13.01 piero\alquilerdevehiculos\libs\utilidades.c
+	"utilidades.h"
+	"interfazUsuario.h"
+
+1718726114 source:c:\users\ezequiel\downloads\alquilerdevehiculos18.06.10.22-13.01 piero\alquilerdevehiculos\libs\validaciones.c
+	<string.h>
+	<ctype.h>
+	"validaciones.h"
+
+1718726114 source:c:\users\ezequiel\downloads\alquilerdevehiculos18.06.10.22-13.01 piero\alquilerdevehiculos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"estructuras.h"
+
+1718731893 source:c:\users\ezequiel\downloads\alquilerdevehiculos18.06.10.22-14.15-piero\alquilerdevehiculos18.06.10.22-14.15 eze\alquilerdevehiculos\libs\alquilerdata.c
+	"alquilerData.h"
+	<stdio.h>
+	<stdlib.h>
+
+1718731248 c:\users\ezequiel\downloads\alquilerdevehiculos18.06.10.22-14.15-piero\alquilerdevehiculos18.06.10.22-14.15 eze\alquilerdevehiculos\libs\alquilerdata.h
+	"estructuras.h"
+
+1718731248 c:\users\ezequiel\downloads\alquilerdevehiculos18.06.10.22-14.15-piero\alquilerdevehiculos18.06.10.22-14.15 eze\alquilerdevehiculos\libs\estructuras.h
+
+1718731248 source:c:\users\ezequiel\downloads\alquilerdevehiculos18.06.10.22-14.15-piero\alquilerdevehiculos18.06.10.22-14.15 eze\alquilerdevehiculos\libs\estructuras.c
+
+1718731248 source:c:\users\ezequiel\downloads\alquilerdevehiculos18.06.10.22-14.15-piero\alquilerdevehiculos18.06.10.22-14.15 eze\alquilerdevehiculos\libs\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1718734351 source:c:\users\ezequiel\downloads\alquilerdevehiculos18.06.10.22-14.15-piero\alquilerdevehiculos18.06.10.22-14.15 eze\alquilerdevehiculos\libs\interfazalquiler.c
+	"interfazAlquiler.h"
+	"interfazUsuario.h"
+
+1718731248 c:\users\ezequiel\downloads\alquilerdevehiculos18.06.10.22-14.15-piero\alquilerdevehiculos18.06.10.22-14.15 eze\alquilerdevehiculos\libs\interfazalquiler.h
+	"estructuras.h"
+	"interfazUsuario.h"
+	"validaciones.h"
+	"utilidades.h"
+	"alquilerData.h"
+
+1718731248 c:\users\ezequiel\downloads\alquilerdevehiculos18.06.10.22-14.15-piero\alquilerdevehiculos18.06.10.22-14.15 eze\alquilerdevehiculos\libs\interfazusuario.h
+	"estructuras.h"
+	"utilidades.h"
+	"reportesEstadisticas.h"
+	"LibreriaGestion.h"
+	"interfazAlquiler.h"
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"personas.h"
+
+1718733306 c:\users\ezequiel\downloads\alquilerdevehiculos18.06.10.22-14.15-piero\alquilerdevehiculos18.06.10.22-14.15 eze\alquilerdevehiculos\libs\utilidades.h
+	"estructuras.h"
+	<time.h>
+
+1718731248 c:\users\ezequiel\downloads\alquilerdevehiculos18.06.10.22-14.15-piero\alquilerdevehiculos18.06.10.22-14.15 eze\alquilerdevehiculos\libs\reportesestadisticas.h
+	"estructuras.h"
+	"interfazUsuario.h"
+
+1718731248 c:\users\ezequiel\downloads\alquilerdevehiculos18.06.10.22-14.15-piero\alquilerdevehiculos18.06.10.22-14.15 eze\alquilerdevehiculos\libs\libreriagestion.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	"estructuras.h"
+
+1718731248 c:\users\ezequiel\downloads\alquilerdevehiculos18.06.10.22-14.15-piero\alquilerdevehiculos18.06.10.22-14.15 eze\alquilerdevehiculos\libs\gotoxy.h
+
+1718731248 c:\users\ezequiel\downloads\alquilerdevehiculos18.06.10.22-14.15-piero\alquilerdevehiculos18.06.10.22-14.15 eze\alquilerdevehiculos\libs\personas.h
+	"estructuras.h"
+	"interfazUsuario.h"
+	"utilidades.h"
+
+1718731248 c:\users\ezequiel\downloads\alquilerdevehiculos18.06.10.22-14.15-piero\alquilerdevehiculos18.06.10.22-14.15 eze\alquilerdevehiculos\libs\validaciones.h
+	"estructuras.h"
+
+1718731248 source:c:\users\ezequiel\downloads\alquilerdevehiculos18.06.10.22-14.15-piero\alquilerdevehiculos18.06.10.22-14.15 eze\alquilerdevehiculos\libs\interfazusuariomenu.c
+	"interfazUsuario.h"
+	"gotoxy.h"
+	<stdio.h>
+
+1718731248 source:c:\users\ezequiel\downloads\alquilerdevehiculos18.06.10.22-14.15-piero\alquilerdevehiculos18.06.10.22-14.15 eze\alquilerdevehiculos\libs\manejodearchivos.c
+	"manejoDeArchivos.h"
+
+1718731248 c:\users\ezequiel\downloads\alquilerdevehiculos18.06.10.22-14.15-piero\alquilerdevehiculos18.06.10.22-14.15 eze\alquilerdevehiculos\libs\manejodearchivos.h
+	<stdio.h>
+	<stdlib.h>
+	"estructuras.h"
+
+1718731248 source:c:\users\ezequiel\downloads\alquilerdevehiculos18.06.10.22-14.15-piero\alquilerdevehiculos18.06.10.22-14.15 eze\alquilerdevehiculos\libs\personas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"personas.h"
+
+1718731248 source:c:\users\ezequiel\downloads\alquilerdevehiculos18.06.10.22-14.15-piero\alquilerdevehiculos18.06.10.22-14.15 eze\alquilerdevehiculos\libs\reportesestadisticas.c
+	"reportesEstadisticas.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"gotoxy.h"
+
+1718733291 source:c:\users\ezequiel\downloads\alquilerdevehiculos18.06.10.22-14.15-piero\alquilerdevehiculos18.06.10.22-14.15 eze\alquilerdevehiculos\libs\utilidades.c
+	<ctype.h>
+	"utilidades.h"
+	"interfazUsuario.h"
+
+1718731248 source:c:\users\ezequiel\downloads\alquilerdevehiculos18.06.10.22-14.15-piero\alquilerdevehiculos18.06.10.22-14.15 eze\alquilerdevehiculos\libs\validaciones.c
+	<string.h>
+	<ctype.h>
+	"validaciones.h"
+
+1718731248 source:c:\users\ezequiel\downloads\alquilerdevehiculos18.06.10.22-14.15-piero\alquilerdevehiculos18.06.10.22-14.15 eze\alquilerdevehiculos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"estructuras.h"
+
+1718733160 source:c:\users\ezequiel\downloads\alquilerdevehiculos18.06.10.22-14.15-piero\alquilerdevehiculos18.06.10.22-14.15 eze\alquilerdevehiculos\libs\libreriagestion.c
+	"LibreriaGestion.h"
+
